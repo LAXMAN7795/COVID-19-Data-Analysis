@@ -38,6 +38,9 @@ Understanding COVID-19 trends is crucial for making informed public health decis
 - Shows `Confirmed`, `Recovered`, `Deaths` as separate points for each country.
 - Saved figures as: `CountryName_covid_summary.png`.
 ![image](https://github.com/LAXMAN7795/COVID-19-Data-Analysis/blob/89b2bcb4685bd99ba286383885a6f5f6ed8d5fba/output/US_covid_summary.png)
+![image](https://github.com/LAXMAN7795/COVID-19-Data-Analysis/blob/37fd260f300a5a4d6704f7c8702020111918087f/output/Brazil_covid_summary.png)
+![image]()
+![image]()
 ![image]()
 
 ### 🟧 2. Area Chart
