@@ -54,7 +54,9 @@ Understanding COVID-19 trends is crucial for making informed public health decis
 - Correlation heatmap between `Confirmed`, `Recovered`, and `Deaths`.
 - Highlights relationships among key metrics.
 ![image](https://github.com/LAXMAN7795/COVID-19-Data-Analysis/blob/68a23d4ebcfdc36ef89a9c7df1315b2826589bec/output/correlation_heatmap.png)
----
+
+### 4. Bar Chart
+![image](https://github.com/LAXMAN7795/COVID-19-Data-Analysis/blob/9c470bf5b1b856b35d3d5672eb5ebdf7a984c03d/output/covid_bar_chart.png)
 
 ## 📌 Key Insights
 - Countries with high confirmed cases often also show high recovery counts.
