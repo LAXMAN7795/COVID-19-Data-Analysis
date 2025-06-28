@@ -41,7 +41,7 @@ Understanding COVID-19 trends is crucial for making informed public health decis
 ![image](https://github.com/LAXMAN7795/COVID-19-Data-Analysis/blob/37fd260f300a5a4d6704f7c8702020111918087f/output/Brazil_covid_summary.png)
 ![image](https://github.com/LAXMAN7795/COVID-19-Data-Analysis/blob/574160f0824d411d16bbed29fdad71ba2b141f1f/output/India_covid_summary.png)
 ![image](https://github.com/LAXMAN7795/COVID-19-Data-Analysis/blob/a7fe699d84543e982e183e5f4607c896a4bebddc/output/Russia_covid_summary.png)
-![image]()
+![image](https://github.com/LAXMAN7795/COVID-19-Data-Analysis/blob/7ca24677dbf0bcdd03445d5c0eb7f133b9df41d3/output/South%20Africa_covid_summary.png)
 
 ### 🟧 2. Area Chart
 - Stacked area chart for top 3 countries by confirmed cases.
