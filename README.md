@@ -47,6 +47,7 @@ Understanding COVID-19 trends is crucial for making informed public health decis
 - Stacked area chart for top 3 countries by confirmed cases.
 - Visual comparison of the spread and recovery over time.
 - Saved as: `covid_area_chart.png`.
+
 ![image](https://github.com/LAXMAN7795/COVID-19-Data-Analysis/blob/6badd9b44e90c3bf02f35b0b5eb3e09e5a3810d8/output/covid_area_chart.png)
 
 ### 🔥 3. Heatmap
